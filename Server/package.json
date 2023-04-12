@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "serwerws",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test Conection"
+  },
+  "author": "Eryk Ratajczyk",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.12.0"
+  }
+}
